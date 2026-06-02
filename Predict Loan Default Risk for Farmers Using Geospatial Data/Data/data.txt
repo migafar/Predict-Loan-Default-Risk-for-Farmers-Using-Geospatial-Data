@@ -1,0 +1,1 @@
+1. Farmer loans + default label: https://www.kaggle.com/datasets/wordsforthewise/lending-club 2. Rainfall + temperature: https://power.larc.nasa.gov/api/temporal/monthly/point 3. NDVI index: NASA earthaccess Python library (MODIS MOD13A3) 4. Soil properties: https://rest.isric.org/soilgrids/v2.0/properties/query
